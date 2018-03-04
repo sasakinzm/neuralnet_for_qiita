@@ -1,0 +1,2 @@
+# neuralnet_for_qiita
+Qiita投稿用ニューラルネットワーク
